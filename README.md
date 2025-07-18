@@ -51,6 +51,6 @@ Główna funkcja programu obsługująca:
 
 Poniżej przykład działania aplikacji w terminalu (folder `/images`):
 
-![Podgląd działania](images/result.png)
+<img src="images/result1.png" alt="Podgląd działania" width="700"/>
 
 </details>
