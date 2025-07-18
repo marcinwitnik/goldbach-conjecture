@@ -9,8 +9,7 @@ Ten projekt to prosty program konsolowy napisany w języku C++, który demonstru
 - **Język:** [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)](https://cplusplus.com/doc/) 
 - **Środowisko IDE:** [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/)
 - **Biblioteki:**  
-  - `iostream` – obsługa wejścia/wyjścia w konsoli  
-  - Brak dodatkowych bibliotek – wykorzystano tylko standardową bibliotekę języka C++
+  - [![iostream](https://img.shields.io/badge/iostream-808080?style=flat&logo=c%2b%2b&logoColor=white)](https://cplusplus.com/reference/iostream/) – obsługa wejścia/wyjścia w konsoli
 
 ---
 
