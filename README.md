@@ -51,6 +51,6 @@ Główna funkcja programu obsługująca:
 
 Poniżej przykład działania aplikacji w terminalu (folder `/images`):
 
-<img src="images/result1.png" alt="Podgląd działania" width="700"/>
+<img src="goldbach-conjecture/images/result1.png" alt="Podgląd działania" width="700"/>
 
 </details>
