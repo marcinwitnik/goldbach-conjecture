@@ -51,6 +51,6 @@ Główna funkcja programu obsługująca:
 
 Poniżej przykład działania aplikacji w terminalu (folder `/images`):
 
-![Podgląd działania](images/goldbach-demo.png)
+![Podgląd działania](images/result.png)
 
 </details>
