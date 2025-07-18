@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/numerical-sorting.png" height="22px" /> Goldbach's Conjecture – Visual C++</h1>
+<h1 align="center"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/123.png" height="22px" /> Goldbach's Conjecture – Visual C++</h1>
 
 Ten projekt to prosty program konsolowy napisany w języku C++, który demonstruje **Hipotezę Goldbacha** – niesprawdzoną hipotezę matematyczną mówiącą, że każda parzysta liczba większa od 2 jest sumą dwóch liczb pierwszych. Program pozwala użytkownikowi wpisywać kolejne liczby i sprawdza, czy można je przedstawić jako sumę dwóch liczb pierwszych. Narzędzie działa w sposób interaktywny i edukacyjny.
 
